@@ -28,6 +28,10 @@ chdir ..
 chdir express
 npm install
 
+note: pastikan sebelum install @tensorflow/tfjs-node visual studio + 'Desktop development with C++' telah terinstall
+solusi installnya ada di sini: https://github.com/tensorflow/tfjs/blob/master/tfjs-node/WINDOWS_TROUBLESHOOTING.md
+atau kirim pesan error nya di discord juga gak masalah.
+
 pip install fastapi tensorflow tensorflow.keras uvicorn pillow
 ```
 
